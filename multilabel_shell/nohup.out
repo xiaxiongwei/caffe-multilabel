@@ -1,0 +1,757 @@
+Creating data lmdb...
+I0815 11:24:18.985076  2202 convert_imageset.cpp:89] A total of 499989 images.
+I0815 11:24:18.985698  2202 db_lmdb.cpp:35] Opened lmdb /mnt/lvm/xiaxiongwei/coco/data_lmdb/train
+I0815 11:24:26.939450  2202 convert_imageset.cpp:147] Processed 1000 files.
+I0815 11:24:32.768849  2202 convert_imageset.cpp:147] Processed 2000 files.
+Premature end of JPEG file
+I0815 11:24:40.804285  2202 convert_imageset.cpp:147] Processed 3000 files.
+I0815 11:24:45.658911  2202 convert_imageset.cpp:147] Processed 4000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:24:54.296277  2202 convert_imageset.cpp:147] Processed 5000 files.
+I0815 11:25:02.636289  2202 convert_imageset.cpp:147] Processed 6000 files.
+I0815 11:25:08.037808  2202 convert_imageset.cpp:147] Processed 7000 files.
+I0815 11:25:16.258674  2202 convert_imageset.cpp:147] Processed 8000 files.
+I0815 11:25:23.766594  2202 convert_imageset.cpp:147] Processed 9000 files.
+Premature end of JPEG file
+I0815 11:25:33.812412  2202 convert_imageset.cpp:147] Processed 10000 files.
+I0815 11:25:39.979396  2202 convert_imageset.cpp:147] Processed 11000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:25:46.806169  2202 convert_imageset.cpp:147] Processed 12000 files.
+Premature end of JPEG file
+I0815 11:25:54.519038  2202 convert_imageset.cpp:147] Processed 13000 files.
+I0815 11:26:00.455621  2202 convert_imageset.cpp:147] Processed 14000 files.
+I0815 11:26:08.724783  2202 convert_imageset.cpp:147] Processed 15000 files.
+I0815 11:26:20.050875  2202 convert_imageset.cpp:147] Processed 16000 files.
+I0815 11:26:27.933662  2202 convert_imageset.cpp:147] Processed 17000 files.
+I0815 11:26:36.325023  2202 convert_imageset.cpp:147] Processed 18000 files.
+I0815 11:26:41.731032  2202 convert_imageset.cpp:147] Processed 19000 files.
+I0815 11:26:50.423854  2202 convert_imageset.cpp:147] Processed 20000 files.
+I0815 11:27:04.141705  2202 convert_imageset.cpp:147] Processed 21000 files.
+Premature end of JPEG file
+I0815 11:27:11.847942  2202 convert_imageset.cpp:147] Processed 22000 files.
+I0815 11:27:26.530822  2202 convert_imageset.cpp:147] Processed 23000 files.
+Premature end of JPEG file
+I0815 11:27:40.911607  2202 convert_imageset.cpp:147] Processed 24000 files.
+Premature end of JPEG file
+I0815 11:27:50.373234  2202 convert_imageset.cpp:147] Processed 25000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:27:58.581415  2202 convert_imageset.cpp:147] Processed 26000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:28:06.059496  2202 convert_imageset.cpp:147] Processed 27000 files.
+Premature end of JPEG file
+I0815 11:28:13.971168  2202 convert_imageset.cpp:147] Processed 28000 files.
+Premature end of JPEG file
+I0815 11:28:18.722220  2202 convert_imageset.cpp:147] Processed 29000 files.
+Premature end of JPEG file
+I0815 11:28:26.293090  2202 convert_imageset.cpp:147] Processed 30000 files.
+I0815 11:28:34.014505  2202 convert_imageset.cpp:147] Processed 31000 files.
+I0815 11:28:39.711810  2202 convert_imageset.cpp:147] Processed 32000 files.
+I0815 11:28:47.551131  2202 convert_imageset.cpp:147] Processed 33000 files.
+Premature end of JPEG file
+I0815 11:28:52.601315  2202 convert_imageset.cpp:147] Processed 34000 files.
+I0815 11:29:00.465595  2202 convert_imageset.cpp:147] Processed 35000 files.
+I0815 11:29:06.801002  2202 convert_imageset.cpp:147] Processed 36000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:29:14.211160  2202 convert_imageset.cpp:147] Processed 37000 files.
+Premature end of JPEG file
+I0815 11:29:19.145284  2202 convert_imageset.cpp:147] Processed 38000 files.
+I0815 11:29:24.134105  2202 convert_imageset.cpp:147] Processed 39000 files.
+Premature end of JPEG file
+I0815 11:29:31.439055  2202 convert_imageset.cpp:147] Processed 40000 files.
+I0815 11:29:36.277236  2202 convert_imageset.cpp:147] Processed 41000 files.
+I0815 11:29:42.866447  2202 convert_imageset.cpp:147] Processed 42000 files.
+Premature end of JPEG file
+I0815 11:29:50.721508  2202 convert_imageset.cpp:147] Processed 43000 files.
+Premature end of JPEG file
+I0815 11:29:58.108088  2202 convert_imageset.cpp:147] Processed 44000 files.
+I0815 11:30:06.008299  2202 convert_imageset.cpp:147] Processed 45000 files.
+I0815 11:30:12.588546  2202 convert_imageset.cpp:147] Processed 46000 files.
+Premature end of JPEG file
+I0815 11:30:20.646232  2202 convert_imageset.cpp:147] Processed 47000 files.
+I0815 11:30:25.613544  2202 convert_imageset.cpp:147] Processed 48000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:30:33.536888  2202 convert_imageset.cpp:147] Processed 49000 files.
+I0815 11:30:40.259812  2202 convert_imageset.cpp:147] Processed 50000 files.
+I0815 11:30:46.741366  2202 convert_imageset.cpp:147] Processed 51000 files.
+I0815 11:30:54.850759  2202 convert_imageset.cpp:147] Processed 52000 files.
+I0815 11:31:00.014467  2202 convert_imageset.cpp:147] Processed 53000 files.
+Premature end of JPEG file
+I0815 11:31:08.119335  2202 convert_imageset.cpp:147] Processed 54000 files.
+Premature end of JPEG file
+I0815 11:31:16.200345  2202 convert_imageset.cpp:147] Processed 55000 files.
+I0815 11:31:21.990619  2202 convert_imageset.cpp:147] Processed 56000 files.
+I0815 11:31:30.177526  2202 convert_imageset.cpp:147] Processed 57000 files.
+Premature end of JPEG file
+I0815 11:31:36.063870  2202 convert_imageset.cpp:147] Processed 58000 files.
+I0815 11:31:44.280655  2202 convert_imageset.cpp:147] Processed 59000 files.
+I0815 11:31:49.591820  2202 convert_imageset.cpp:147] Processed 60000 files.
+Premature end of JPEG file
+I0815 11:31:57.256443  2202 convert_imageset.cpp:147] Processed 61000 files.
+I0815 11:32:04.487131  2202 convert_imageset.cpp:147] Processed 62000 files.
+I0815 11:32:12.665730  2202 convert_imageset.cpp:147] Processed 63000 files.
+Premature end of JPEG file
+I0815 11:32:20.426266  2202 convert_imageset.cpp:147] Processed 64000 files.
+I0815 11:32:30.882736  2202 convert_imageset.cpp:147] Processed 65000 files.
+Premature end of JPEG file
+I0815 11:32:39.122107  2202 convert_imageset.cpp:147] Processed 66000 files.
+I0815 11:32:48.212432  2202 convert_imageset.cpp:147] Processed 67000 files.
+Premature end of JPEG file
+I0815 11:32:53.123371  2202 convert_imageset.cpp:147] Processed 68000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:32:58.249675  2202 convert_imageset.cpp:147] Processed 69000 files.
+I0815 11:33:06.362134  2202 convert_imageset.cpp:147] Processed 70000 files.
+Premature end of JPEG file
+I0815 11:33:14.602740  2202 convert_imageset.cpp:147] Processed 71000 files.
+I0815 11:33:22.314975  2202 convert_imageset.cpp:147] Processed 72000 files.
+I0815 11:33:27.795521  2202 convert_imageset.cpp:147] Processed 73000 files.
+I0815 11:33:36.324216  2202 convert_imageset.cpp:147] Processed 74000 files.
+Premature end of JPEG file
+I0815 11:33:46.515108  2202 convert_imageset.cpp:147] Processed 75000 files.
+Premature end of JPEG file
+I0815 11:33:52.559840  2202 convert_imageset.cpp:147] Processed 76000 files.
+I0815 11:34:01.235738  2202 convert_imageset.cpp:147] Processed 77000 files.
+I0815 11:34:09.204773  2202 convert_imageset.cpp:147] Processed 78000 files.
+I0815 11:34:14.520714  2202 convert_imageset.cpp:147] Processed 79000 files.
+I0815 11:34:22.040947  2202 convert_imageset.cpp:147] Processed 80000 files.
+Premature end of JPEG file
+I0815 11:34:27.936715  2202 convert_imageset.cpp:147] Processed 81000 files.
+I0815 11:34:35.668818  2202 convert_imageset.cpp:147] Processed 82000 files.
+I0815 11:34:42.594446  2202 convert_imageset.cpp:147] Processed 83000 files.
+I0815 11:34:50.870564  2202 convert_imageset.cpp:147] Processed 84000 files.
+I0815 11:34:57.404513  2202 convert_imageset.cpp:147] Processed 85000 files.
+I0815 11:35:07.558367  2202 convert_imageset.cpp:147] Processed 86000 files.
+I0815 11:35:14.832598  2202 convert_imageset.cpp:147] Processed 87000 files.
+I0815 11:35:22.779810  2202 convert_imageset.cpp:147] Processed 88000 files.
+Premature end of JPEG file
+I0815 11:35:30.612485  2202 convert_imageset.cpp:147] Processed 89000 files.
+I0815 11:35:38.728168  2202 convert_imageset.cpp:147] Processed 90000 files.
+Premature end of JPEG file
+I0815 11:35:47.317888  2202 convert_imageset.cpp:147] Processed 91000 files.
+I0815 11:35:57.066324  2202 convert_imageset.cpp:147] Processed 92000 files.
+Premature end of JPEG file
+I0815 11:36:03.523506  2202 convert_imageset.cpp:147] Processed 93000 files.
+I0815 11:36:11.249351  2202 convert_imageset.cpp:147] Processed 94000 files.
+I0815 11:36:16.099730  2202 convert_imageset.cpp:147] Processed 95000 files.
+Premature end of JPEG file
+I0815 11:36:23.536031  2202 convert_imageset.cpp:147] Processed 96000 files.
+I0815 11:36:30.738911  2202 convert_imageset.cpp:147] Processed 97000 files.
+Premature end of JPEG file
+I0815 11:36:37.908964  2202 convert_imageset.cpp:147] Processed 98000 files.
+I0815 11:36:43.322074  2202 convert_imageset.cpp:147] Processed 99000 files.
+I0815 11:36:49.859616  2202 convert_imageset.cpp:147] Processed 100000 files.
+I0815 11:36:57.863239  2202 convert_imageset.cpp:147] Processed 101000 files.
+I0815 11:37:03.372552  2202 convert_imageset.cpp:147] Processed 102000 files.
+I0815 11:37:11.174876  2202 convert_imageset.cpp:147] Processed 103000 files.
+Premature end of JPEG file
+I0815 11:37:18.992810  2202 convert_imageset.cpp:147] Processed 104000 files.
+I0815 11:37:25.309856  2202 convert_imageset.cpp:147] Processed 105000 files.
+Premature end of JPEG file
+I0815 11:37:33.362601  2202 convert_imageset.cpp:147] Processed 106000 files.
+Premature end of JPEG file
+I0815 11:37:38.595160  2202 convert_imageset.cpp:147] Processed 107000 files.
+I0815 11:37:46.495919  2202 convert_imageset.cpp:147] Processed 108000 files.
+I0815 11:37:54.986989  2202 convert_imageset.cpp:147] Processed 109000 files.
+I0815 11:38:03.243450  2202 convert_imageset.cpp:147] Processed 110000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:38:11.171414  2202 convert_imageset.cpp:147] Processed 111000 files.
+Premature end of JPEG file
+I0815 11:38:19.188618  2202 convert_imageset.cpp:147] Processed 112000 files.
+I0815 11:38:25.581274  2202 convert_imageset.cpp:147] Processed 113000 files.
+Premature end of JPEG file
+I0815 11:38:33.440461  2202 convert_imageset.cpp:147] Processed 114000 files.
+I0815 11:38:38.576638  2202 convert_imageset.cpp:147] Processed 115000 files.
+I0815 11:38:46.245133  2202 convert_imageset.cpp:147] Processed 116000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:38:52.121306  2202 convert_imageset.cpp:147] Processed 117000 files.
+I0815 11:38:59.877943  2202 convert_imageset.cpp:147] Processed 118000 files.
+Premature end of JPEG file
+I0815 11:39:04.876032  2202 convert_imageset.cpp:147] Processed 119000 files.
+I0815 11:39:12.080446  2202 convert_imageset.cpp:147] Processed 120000 files.
+Premature end of JPEG file
+I0815 11:39:22.036870  2202 convert_imageset.cpp:147] Processed 121000 files.
+Premature end of JPEG file
+I0815 11:39:29.741340  2202 convert_imageset.cpp:147] Processed 122000 files.
+I0815 11:39:37.696871  2202 convert_imageset.cpp:147] Processed 123000 files.
+I0815 11:39:42.952564  2202 convert_imageset.cpp:147] Processed 124000 files.
+Premature end of JPEG file
+I0815 11:39:51.426642  2202 convert_imageset.cpp:147] Processed 125000 files.
+I0815 11:39:59.758002  2202 convert_imageset.cpp:147] Processed 126000 files.
+Premature end of JPEG file
+I0815 11:40:05.874469  2202 convert_imageset.cpp:147] Processed 127000 files.
+I0815 11:40:14.724064  2202 convert_imageset.cpp:147] Processed 128000 files.
+I0815 11:40:22.458081  2202 convert_imageset.cpp:147] Processed 129000 files.
+Premature end of JPEG file
+I0815 11:40:27.429872  2202 convert_imageset.cpp:147] Processed 130000 files.
+I0815 11:40:35.848963  2202 convert_imageset.cpp:147] Processed 131000 files.
+Premature end of JPEG file
+I0815 11:40:44.434599  2202 convert_imageset.cpp:147] Processed 132000 files.
+I0815 11:40:52.879467  2202 convert_imageset.cpp:147] Processed 133000 files.
+Premature end of JPEG file
+I0815 11:41:01.240636  2202 convert_imageset.cpp:147] Processed 134000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:41:09.411182  2202 convert_imageset.cpp:147] Processed 135000 files.
+I0815 11:41:17.662876  2202 convert_imageset.cpp:147] Processed 136000 files.
+I0815 11:41:25.610566  2202 convert_imageset.cpp:147] Processed 137000 files.
+I0815 11:41:33.278777  2202 convert_imageset.cpp:147] Processed 138000 files.
+Premature end of JPEG file
+I0815 11:41:41.006352  2202 convert_imageset.cpp:147] Processed 139000 files.
+I0815 11:41:48.583706  2202 convert_imageset.cpp:147] Processed 140000 files.
+Premature end of JPEG file
+I0815 11:41:56.597332  2202 convert_imageset.cpp:147] Processed 141000 files.
+Premature end of JPEG file
+I0815 11:42:01.887487  2202 convert_imageset.cpp:147] Processed 142000 files.
+I0815 11:42:09.895112  2202 convert_imageset.cpp:147] Processed 143000 files.
+Premature end of JPEG file
+I0815 11:42:15.447051  2202 convert_imageset.cpp:147] Processed 144000 files.
+I0815 11:42:22.997001  2202 convert_imageset.cpp:147] Processed 145000 files.
+Premature end of JPEG file
+I0815 11:42:27.819013  2202 convert_imageset.cpp:147] Processed 146000 files.
+Premature end of JPEG file
+I0815 11:42:36.117776  2202 convert_imageset.cpp:147] Processed 147000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:42:45.495970  2202 convert_imageset.cpp:147] Processed 148000 files.
+I0815 11:42:54.615954  2202 convert_imageset.cpp:147] Processed 149000 files.
+I0815 11:43:04.103847  2202 convert_imageset.cpp:147] Processed 150000 files.
+I0815 11:43:12.003228  2202 convert_imageset.cpp:147] Processed 151000 files.
+I0815 11:43:19.965811  2202 convert_imageset.cpp:147] Processed 152000 files.
+I0815 11:43:26.986760  2202 convert_imageset.cpp:147] Processed 153000 files.
+Premature end of JPEG file
+I0815 11:43:36.129329  2202 convert_imageset.cpp:147] Processed 154000 files.
+I0815 11:43:42.752097  2202 convert_imageset.cpp:147] Processed 155000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:43:50.834815  2202 convert_imageset.cpp:147] Processed 156000 files.
+Premature end of JPEG file
+I0815 11:43:56.335960  2202 convert_imageset.cpp:147] Processed 157000 files.
+I0815 11:44:04.731056  2202 convert_imageset.cpp:147] Processed 158000 files.
+I0815 11:44:13.757462  2202 convert_imageset.cpp:147] Processed 159000 files.
+I0815 11:44:23.039708  2202 convert_imageset.cpp:147] Processed 160000 files.
+I0815 11:44:31.294106  2202 convert_imageset.cpp:147] Processed 161000 files.
+I0815 11:44:38.492895  2202 convert_imageset.cpp:147] Processed 162000 files.
+Premature end of JPEG file
+I0815 11:44:47.707554  2202 convert_imageset.cpp:147] Processed 163000 files.
+Premature end of JPEG file
+I0815 11:44:55.795192  2202 convert_imageset.cpp:147] Processed 164000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:45:04.300182  2202 convert_imageset.cpp:147] Processed 165000 files.
+I0815 11:45:11.212517  2202 convert_imageset.cpp:147] Processed 166000 files.
+I0815 11:45:18.928575  2202 convert_imageset.cpp:147] Processed 167000 files.
+I0815 11:45:25.239938  2202 convert_imageset.cpp:147] Processed 168000 files.
+I0815 11:45:33.098812  2202 convert_imageset.cpp:147] Processed 169000 files.
+Premature end of JPEG file
+I0815 11:45:39.353261  2202 convert_imageset.cpp:147] Processed 170000 files.
+I0815 11:45:47.620489  2202 convert_imageset.cpp:147] Processed 171000 files.
+I0815 11:45:55.348206  2202 convert_imageset.cpp:147] Processed 172000 files.
+I0815 11:46:03.506948  2202 convert_imageset.cpp:147] Processed 173000 files.
+Premature end of JPEG file
+I0815 11:46:11.154448  2202 convert_imageset.cpp:147] Processed 174000 files.
+I0815 11:46:19.011214  2202 convert_imageset.cpp:147] Processed 175000 files.
+Premature end of JPEG file
+I0815 11:46:25.536329  2202 convert_imageset.cpp:147] Processed 176000 files.
+Premature end of JPEG file
+I0815 11:46:33.733460  2202 convert_imageset.cpp:147] Processed 177000 files.
+I0815 11:46:42.008915  2202 convert_imageset.cpp:147] Processed 178000 files.
+I0815 11:46:50.525632  2202 convert_imageset.cpp:147] Processed 179000 files.
+I0815 11:46:58.645120  2202 convert_imageset.cpp:147] Processed 180000 files.
+I0815 11:47:04.656769  2202 convert_imageset.cpp:147] Processed 181000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:47:12.805070  2202 convert_imageset.cpp:147] Processed 182000 files.
+Premature end of JPEG file
+I0815 11:47:19.834964  2202 convert_imageset.cpp:147] Processed 183000 files.
+I0815 11:47:27.786738  2202 convert_imageset.cpp:147] Processed 184000 files.
+Premature end of JPEG file
+I0815 11:47:34.856813  2202 convert_imageset.cpp:147] Processed 185000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:47:42.655625  2202 convert_imageset.cpp:147] Processed 186000 files.
+I0815 11:47:50.418350  2202 convert_imageset.cpp:147] Processed 187000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:47:58.617854  2202 convert_imageset.cpp:147] Processed 188000 files.
+I0815 11:48:06.591549  2202 convert_imageset.cpp:147] Processed 189000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:48:14.124361  2202 convert_imageset.cpp:147] Processed 190000 files.
+I0815 11:48:19.968986  2202 convert_imageset.cpp:147] Processed 191000 files.
+I0815 11:48:27.741122  2202 convert_imageset.cpp:147] Processed 192000 files.
+Premature end of JPEG file
+I0815 11:48:32.623461  2202 convert_imageset.cpp:147] Processed 193000 files.
+I0815 11:48:40.795083  2202 convert_imageset.cpp:147] Processed 194000 files.
+Premature end of JPEG file
+I0815 11:48:48.837705  2202 convert_imageset.cpp:147] Processed 195000 files.
+I0815 11:48:53.641952  2202 convert_imageset.cpp:147] Processed 196000 files.
+I0815 11:49:01.384763  2202 convert_imageset.cpp:147] Processed 197000 files.
+I0815 11:49:08.927536  2202 convert_imageset.cpp:147] Processed 198000 files.
+Premature end of JPEG file
+I0815 11:49:16.895041  2202 convert_imageset.cpp:147] Processed 199000 files.
+I0815 11:49:22.594679  2202 convert_imageset.cpp:147] Processed 200000 files.
+Premature end of JPEG file
+I0815 11:49:30.575783  2202 convert_imageset.cpp:147] Processed 201000 files.
+Premature end of JPEG file
+I0815 11:49:35.968278  2202 convert_imageset.cpp:147] Processed 202000 files.
+I0815 11:49:43.815547  2202 convert_imageset.cpp:147] Processed 203000 files.
+I0815 11:49:49.059069  2202 convert_imageset.cpp:147] Processed 204000 files.
+I0815 11:49:57.200719  2202 convert_imageset.cpp:147] Processed 205000 files.
+Premature end of JPEG file
+I0815 11:50:05.293355  2202 convert_imageset.cpp:147] Processed 206000 files.
+I0815 11:50:13.231554  2202 convert_imageset.cpp:147] Processed 207000 files.
+I0815 11:50:20.825899  2202 convert_imageset.cpp:147] Processed 208000 files.
+I0815 11:50:25.799860  2202 convert_imageset.cpp:147] Processed 209000 files.
+I0815 11:50:32.841691  2202 convert_imageset.cpp:147] Processed 210000 files.
+Premature end of JPEG file
+I0815 11:50:40.866848  2202 convert_imageset.cpp:147] Processed 211000 files.
+Premature end of JPEG file
+I0815 11:50:46.458101  2202 convert_imageset.cpp:147] Processed 212000 files.
+I0815 11:50:54.253728  2202 convert_imageset.cpp:147] Processed 213000 files.
+I0815 11:50:59.417935  2202 convert_imageset.cpp:147] Processed 214000 files.
+Premature end of JPEG file
+I0815 11:51:07.651347  2202 convert_imageset.cpp:147] Processed 215000 files.
+Premature end of JPEG file
+I0815 11:51:15.739228  2202 convert_imageset.cpp:147] Processed 216000 files.
+I0815 11:51:25.024487  2202 convert_imageset.cpp:147] Processed 217000 files.
+I0815 11:51:34.723184  2202 convert_imageset.cpp:147] Processed 218000 files.
+I0815 11:51:43.653255  2202 convert_imageset.cpp:147] Processed 219000 files.
+Premature end of JPEG file
+I0815 11:51:51.730393  2202 convert_imageset.cpp:147] Processed 220000 files.
+I0815 11:51:58.343297  2202 convert_imageset.cpp:147] Processed 221000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:52:06.391952  2202 convert_imageset.cpp:147] Processed 222000 files.
+I0815 11:52:13.022315  2202 convert_imageset.cpp:147] Processed 223000 files.
+Premature end of JPEG file
+I0815 11:52:20.891417  2202 convert_imageset.cpp:147] Processed 224000 files.
+Premature end of JPEG file
+I0815 11:52:27.252288  2202 convert_imageset.cpp:147] Processed 225000 files.
+I0815 11:52:35.436413  2202 convert_imageset.cpp:147] Processed 226000 files.
+I0815 11:52:40.596832  2202 convert_imageset.cpp:147] Processed 227000 files.
+I0815 11:52:49.382609  2202 convert_imageset.cpp:147] Processed 228000 files.
+I0815 11:52:57.976363  2202 convert_imageset.cpp:147] Processed 229000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:53:05.838291  2202 convert_imageset.cpp:147] Processed 230000 files.
+I0815 11:53:13.584942  2202 convert_imageset.cpp:147] Processed 231000 files.
+I0815 11:53:21.813554  2202 convert_imageset.cpp:147] Processed 232000 files.
+I0815 11:53:28.363129  2202 convert_imageset.cpp:147] Processed 233000 files.
+I0815 11:53:36.707080  2202 convert_imageset.cpp:147] Processed 234000 files.
+I0815 11:53:42.351727  2202 convert_imageset.cpp:147] Processed 235000 files.
+I0815 11:53:47.711138  2202 convert_imageset.cpp:147] Processed 236000 files.
+Premature end of JPEG file
+I0815 11:53:56.202306  2202 convert_imageset.cpp:147] Processed 237000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:54:04.213016  2202 convert_imageset.cpp:147] Processed 238000 files.
+I0815 11:54:12.218236  2202 convert_imageset.cpp:147] Processed 239000 files.
+I0815 11:54:20.956120  2202 convert_imageset.cpp:147] Processed 240000 files.
+I0815 11:54:27.244559  2202 convert_imageset.cpp:147] Processed 241000 files.
+I0815 11:54:35.238344  2202 convert_imageset.cpp:147] Processed 242000 files.
+I0815 11:54:40.133987  2202 convert_imageset.cpp:147] Processed 243000 files.
+I0815 11:54:48.046708  2202 convert_imageset.cpp:147] Processed 244000 files.
+I0815 11:54:55.884891  2202 convert_imageset.cpp:147] Processed 245000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:55:01.237068  2202 convert_imageset.cpp:147] Processed 246000 files.
+Premature end of JPEG file
+I0815 11:55:08.988867  2202 convert_imageset.cpp:147] Processed 247000 files.
+Premature end of JPEG file
+I0815 11:55:14.364256  2202 convert_imageset.cpp:147] Processed 248000 files.
+I0815 11:55:22.132366  2202 convert_imageset.cpp:147] Processed 249000 files.
+I0815 11:55:31.238473  2202 convert_imageset.cpp:147] Processed 250000 files.
+Premature end of JPEG file
+I0815 11:55:38.568810  2202 convert_imageset.cpp:147] Processed 251000 files.
+I0815 11:55:46.633620  2202 convert_imageset.cpp:147] Processed 252000 files.
+I0815 11:55:54.013859  2202 convert_imageset.cpp:147] Processed 253000 files.
+I0815 11:56:02.067301  2202 convert_imageset.cpp:147] Processed 254000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:56:08.498654  2202 convert_imageset.cpp:147] Processed 255000 files.
+I0815 11:56:16.333001  2202 convert_imageset.cpp:147] Processed 256000 files.
+I0815 11:56:22.259094  2202 convert_imageset.cpp:147] Processed 257000 files.
+I0815 11:56:30.765053  2202 convert_imageset.cpp:147] Processed 258000 files.
+I0815 11:56:35.755086  2202 convert_imageset.cpp:147] Processed 259000 files.
+I0815 11:56:43.536728  2202 convert_imageset.cpp:147] Processed 260000 files.
+Premature end of JPEG file
+I0815 11:56:51.678918  2202 convert_imageset.cpp:147] Processed 261000 files.
+I0815 11:57:00.234136  2202 convert_imageset.cpp:147] Processed 262000 files.
+Premature end of JPEG file
+I0815 11:57:10.424623  2202 convert_imageset.cpp:147] Processed 263000 files.
+I0815 11:57:16.880831  2202 convert_imageset.cpp:147] Processed 264000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:57:25.400723  2202 convert_imageset.cpp:147] Processed 265000 files.
+Premature end of JPEG file
+I0815 11:57:31.814965  2202 convert_imageset.cpp:147] Processed 266000 files.
+Premature end of JPEG file
+I0815 11:57:42.227852  2202 convert_imageset.cpp:147] Processed 267000 files.
+I0815 11:57:50.103139  2202 convert_imageset.cpp:147] Processed 268000 files.
+I0815 11:57:58.287520  2202 convert_imageset.cpp:147] Processed 269000 files.
+Premature end of JPEG file
+I0815 11:58:06.285603  2202 convert_imageset.cpp:147] Processed 270000 files.
+I0815 11:58:12.035095  2202 convert_imageset.cpp:147] Processed 271000 files.
+Premature end of JPEG file
+I0815 11:58:20.247480  2202 convert_imageset.cpp:147] Processed 272000 files.
+I0815 11:58:27.575579  2202 convert_imageset.cpp:147] Processed 273000 files.
+I0815 11:58:35.770149  2202 convert_imageset.cpp:147] Processed 274000 files.
+I0815 11:58:42.807960  2202 convert_imageset.cpp:147] Processed 275000 files.
+I0815 11:58:52.797777  2202 convert_imageset.cpp:147] Processed 276000 files.
+Premature end of JPEG file
+I0815 11:58:58.346292  2202 convert_imageset.cpp:147] Processed 277000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:59:06.865794  2202 convert_imageset.cpp:147] Processed 278000 files.
+Premature end of JPEG file
+I0815 11:59:13.186298  2202 convert_imageset.cpp:147] Processed 279000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 11:59:19.908599  2202 convert_imageset.cpp:147] Processed 280000 files.
+I0815 11:59:28.203163  2202 convert_imageset.cpp:147] Processed 281000 files.
+I0815 11:59:35.540702  2202 convert_imageset.cpp:147] Processed 282000 files.
+Premature end of JPEG file
+I0815 11:59:43.607190  2202 convert_imageset.cpp:147] Processed 283000 files.
+I0815 11:59:49.817457  2202 convert_imageset.cpp:147] Processed 284000 files.
+I0815 11:59:58.143893  2202 convert_imageset.cpp:147] Processed 285000 files.
+I0815 12:00:04.621042  2202 convert_imageset.cpp:147] Processed 286000 files.
+I0815 12:00:12.504982  2202 convert_imageset.cpp:147] Processed 287000 files.
+Premature end of JPEG file
+I0815 12:00:17.750183  2202 convert_imageset.cpp:147] Processed 288000 files.
+I0815 12:00:26.193076  2202 convert_imageset.cpp:147] Processed 289000 files.
+I0815 12:00:35.614876  2202 convert_imageset.cpp:147] Processed 290000 files.
+I0815 12:00:44.742640  2202 convert_imageset.cpp:147] Processed 291000 files.
+I0815 12:00:51.665923  2202 convert_imageset.cpp:147] Processed 292000 files.
+I0815 12:01:03.461506  2202 convert_imageset.cpp:147] Processed 293000 files.
+I0815 12:01:10.283546  2202 convert_imageset.cpp:147] Processed 294000 files.
+Premature end of JPEG file
+I0815 12:01:18.949280  2202 convert_imageset.cpp:147] Processed 295000 files.
+Premature end of JPEG file
+I0815 12:01:27.323392  2202 convert_imageset.cpp:147] Processed 296000 files.
+Premature end of JPEG file
+I0815 12:01:35.734256  2202 convert_imageset.cpp:147] Processed 297000 files.
+I0815 12:01:43.659610  2202 convert_imageset.cpp:147] Processed 298000 files.
+I0815 12:01:51.544003  2202 convert_imageset.cpp:147] Processed 299000 files.
+I0815 12:01:59.576149  2202 convert_imageset.cpp:147] Processed 300000 files.
+I0815 12:02:07.724126  2202 convert_imageset.cpp:147] Processed 301000 files.
+Premature end of JPEG file
+I0815 12:02:15.627194  2202 convert_imageset.cpp:147] Processed 302000 files.
+Premature end of JPEG file
+I0815 12:02:23.686401  2202 convert_imageset.cpp:147] Processed 303000 files.
+I0815 12:02:31.812999  2202 convert_imageset.cpp:147] Processed 304000 files.
+I0815 12:02:40.057713  2202 convert_imageset.cpp:147] Processed 305000 files.
+I0815 12:02:46.725921  2202 convert_imageset.cpp:147] Processed 306000 files.
+I0815 12:02:54.900192  2202 convert_imageset.cpp:147] Processed 307000 files.
+I0815 12:03:02.251489  2202 convert_imageset.cpp:147] Processed 308000 files.
+I0815 12:03:10.343591  2202 convert_imageset.cpp:147] Processed 309000 files.
+Premature end of JPEG file
+I0815 12:03:16.913429  2202 convert_imageset.cpp:147] Processed 310000 files.
+Premature end of JPEG file
+I0815 12:03:25.136296  2202 convert_imageset.cpp:147] Processed 311000 files.
+Premature end of JPEG file
+I0815 12:03:33.445601  2202 convert_imageset.cpp:147] Processed 312000 files.
+I0815 12:03:41.448554  2202 convert_imageset.cpp:147] Processed 313000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:03:48.563985  2202 convert_imageset.cpp:147] Processed 314000 files.
+I0815 12:03:56.884723  2202 convert_imageset.cpp:147] Processed 315000 files.
+I0815 12:04:03.226354  2202 convert_imageset.cpp:147] Processed 316000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:04:11.661761  2202 convert_imageset.cpp:147] Processed 317000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:04:19.118839  2202 convert_imageset.cpp:147] Processed 318000 files.
+I0815 12:04:27.105185  2202 convert_imageset.cpp:147] Processed 319000 files.
+Premature end of JPEG file
+I0815 12:04:35.669544  2202 convert_imageset.cpp:147] Processed 320000 files.
+I0815 12:04:43.982168  2202 convert_imageset.cpp:147] Processed 321000 files.
+Premature end of JPEG file
+I0815 12:04:50.551290  2202 convert_imageset.cpp:147] Processed 322000 files.
+Premature end of JPEG file
+I0815 12:04:58.472264  2202 convert_imageset.cpp:147] Processed 323000 files.
+I0815 12:05:05.817415  2202 convert_imageset.cpp:147] Processed 324000 files.
+I0815 12:05:14.151368  2202 convert_imageset.cpp:147] Processed 325000 files.
+I0815 12:05:22.424571  2202 convert_imageset.cpp:147] Processed 326000 files.
+Premature end of JPEG file
+I0815 12:05:30.814867  2202 convert_imageset.cpp:147] Processed 327000 files.
+I0815 12:05:38.243784  2202 convert_imageset.cpp:147] Processed 328000 files.
+I0815 12:05:46.499135  2202 convert_imageset.cpp:147] Processed 329000 files.
+I0815 12:05:54.504461  2202 convert_imageset.cpp:147] Processed 330000 files.
+I0815 12:06:04.056799  2202 convert_imageset.cpp:147] Processed 331000 files.
+Premature end of JPEG file
+I0815 12:06:12.359529  2202 convert_imageset.cpp:147] Processed 332000 files.
+Premature end of JPEG file
+I0815 12:06:20.496815  2202 convert_imageset.cpp:147] Processed 333000 files.
+I0815 12:06:28.772250  2202 convert_imageset.cpp:147] Processed 334000 files.
+Premature end of JPEG file
+I0815 12:06:38.035540  2202 convert_imageset.cpp:147] Processed 335000 files.
+Premature end of JPEG file
+I0815 12:06:47.399020  2202 convert_imageset.cpp:147] Processed 336000 files.
+I0815 12:06:57.161289  2202 convert_imageset.cpp:147] Processed 337000 files.
+Premature end of JPEG file
+I0815 12:07:05.804951  2202 convert_imageset.cpp:147] Processed 338000 files.
+I0815 12:07:14.126416  2202 convert_imageset.cpp:147] Processed 339000 files.
+I0815 12:07:22.975582  2202 convert_imageset.cpp:147] Processed 340000 files.
+Premature end of JPEG file
+I0815 12:07:31.411545  2202 convert_imageset.cpp:147] Processed 341000 files.
+I0815 12:07:39.587326  2202 convert_imageset.cpp:147] Processed 342000 files.
+Premature end of JPEG file
+I0815 12:07:47.034685  2202 convert_imageset.cpp:147] Processed 343000 files.
+Premature end of JPEG file
+I0815 12:07:56.331279  2202 convert_imageset.cpp:147] Processed 344000 files.
+I0815 12:08:03.623657  2202 convert_imageset.cpp:147] Processed 345000 files.
+Premature end of JPEG file
+I0815 12:08:11.891472  2202 convert_imageset.cpp:147] Processed 346000 files.
+Premature end of JPEG file
+I0815 12:08:19.261975  2202 convert_imageset.cpp:147] Processed 347000 files.
+Premature end of JPEG file
+I0815 12:08:27.553133  2202 convert_imageset.cpp:147] Processed 348000 files.
+I0815 12:08:35.160073  2202 convert_imageset.cpp:147] Processed 349000 files.
+I0815 12:08:43.251751  2202 convert_imageset.cpp:147] Processed 350000 files.
+I0815 12:08:51.225405  2202 convert_imageset.cpp:147] Processed 351000 files.
+I0815 12:08:59.405722  2202 convert_imageset.cpp:147] Processed 352000 files.
+I0815 12:09:08.347612  2202 convert_imageset.cpp:147] Processed 353000 files.
+I0815 12:09:18.691067  2202 convert_imageset.cpp:147] Processed 354000 files.
+Premature end of JPEG file
+I0815 12:09:24.901724  2202 convert_imageset.cpp:147] Processed 355000 files.
+Premature end of JPEG file
+I0815 12:09:33.319963  2202 convert_imageset.cpp:147] Processed 356000 files.
+I0815 12:09:41.445425  2202 convert_imageset.cpp:147] Processed 357000 files.
+Premature end of JPEG file
+I0815 12:09:49.509196  2202 convert_imageset.cpp:147] Processed 358000 files.
+Premature end of JPEG file
+I0815 12:09:56.320304  2202 convert_imageset.cpp:147] Processed 359000 files.
+I0815 12:10:04.913681  2202 convert_imageset.cpp:147] Processed 360000 files.
+Premature end of JPEG file
+I0815 12:10:12.647847  2202 convert_imageset.cpp:147] Processed 361000 files.
+Premature end of JPEG file
+I0815 12:10:20.483791  2202 convert_imageset.cpp:147] Processed 362000 files.
+Premature end of JPEG file
+I0815 12:10:25.955483  2202 convert_imageset.cpp:147] Processed 363000 files.
+Premature end of JPEG file
+I0815 12:10:34.071804  2202 convert_imageset.cpp:147] Processed 364000 files.
+Premature end of JPEG file
+I0815 12:10:40.065130  2202 convert_imageset.cpp:147] Processed 365000 files.
+I0815 12:10:47.813367  2202 convert_imageset.cpp:147] Processed 366000 files.
+I0815 12:10:55.966789  2202 convert_imageset.cpp:147] Processed 367000 files.
+Premature end of JPEG file
+I0815 12:11:02.879257  2202 convert_imageset.cpp:147] Processed 368000 files.
+I0815 12:11:10.939558  2202 convert_imageset.cpp:147] Processed 369000 files.
+I0815 12:11:18.270875  2202 convert_imageset.cpp:147] Processed 370000 files.
+Premature end of JPEG file
+I0815 12:11:26.382153  2202 convert_imageset.cpp:147] Processed 371000 files.
+I0815 12:11:34.615824  2202 convert_imageset.cpp:147] Processed 372000 files.
+I0815 12:11:42.547775  2202 convert_imageset.cpp:147] Processed 373000 files.
+Corrupt JPEG data: premature end of data segment
+I0815 12:11:52.084875  2202 convert_imageset.cpp:147] Processed 374000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:12:00.580193  2202 convert_imageset.cpp:147] Processed 375000 files.
+I0815 12:12:09.156888  2202 convert_imageset.cpp:147] Processed 376000 files.
+Premature end of JPEG file
+I0815 12:12:16.048998  2202 convert_imageset.cpp:147] Processed 377000 files.
+Premature end of JPEG file
+I0815 12:12:24.359174  2202 convert_imageset.cpp:147] Processed 378000 files.
+I0815 12:12:31.296171  2202 convert_imageset.cpp:147] Processed 379000 files.
+I0815 12:12:39.590428  2202 convert_imageset.cpp:147] Processed 380000 files.
+Premature end of JPEG file
+I0815 12:12:45.832510  2202 convert_imageset.cpp:147] Processed 381000 files.
+I0815 12:12:53.895689  2202 convert_imageset.cpp:147] Processed 382000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:13:03.332978  2202 convert_imageset.cpp:147] Processed 383000 files.
+I0815 12:13:11.775045  2202 convert_imageset.cpp:147] Processed 384000 files.
+Premature end of JPEG file
+I0815 12:13:17.640489  2202 convert_imageset.cpp:147] Processed 385000 files.
+I0815 12:13:25.789223  2202 convert_imageset.cpp:147] Processed 386000 files.
+Premature end of JPEG file
+I0815 12:13:32.972062  2202 convert_imageset.cpp:147] Processed 387000 files.
+I0815 12:13:41.616344  2202 convert_imageset.cpp:147] Processed 388000 files.
+Premature end of JPEG file
+I0815 12:13:49.498762  2202 convert_imageset.cpp:147] Processed 389000 files.
+I0815 12:13:57.512490  2202 convert_imageset.cpp:147] Processed 390000 files.
+I0815 12:14:06.059063  2202 convert_imageset.cpp:147] Processed 391000 files.
+I0815 12:14:14.362747  2202 convert_imageset.cpp:147] Processed 392000 files.
+I0815 12:14:23.733595  2202 convert_imageset.cpp:147] Processed 393000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:14:28.988111  2202 convert_imageset.cpp:147] Processed 394000 files.
+Premature end of JPEG file
+I0815 12:14:36.499080  2202 convert_imageset.cpp:147] Processed 395000 files.
+I0815 12:14:44.854365  2202 convert_imageset.cpp:147] Processed 396000 files.
+I0815 12:14:54.031085  2202 convert_imageset.cpp:147] Processed 397000 files.
+I0815 12:15:01.759445  2202 convert_imageset.cpp:147] Processed 398000 files.
+I0815 12:15:10.549567  2202 convert_imageset.cpp:147] Processed 399000 files.
+I0815 12:15:18.168459  2202 convert_imageset.cpp:147] Processed 400000 files.
+Premature end of JPEG file
+I0815 12:15:24.931673  2202 convert_imageset.cpp:147] Processed 401000 files.
+Premature end of JPEG file
+I0815 12:15:34.951241  2202 convert_imageset.cpp:147] Processed 402000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:15:42.047286  2202 convert_imageset.cpp:147] Processed 403000 files.
+I0815 12:15:49.963258  2202 convert_imageset.cpp:147] Processed 404000 files.
+I0815 12:15:59.409919  2202 convert_imageset.cpp:147] Processed 405000 files.
+I0815 12:16:07.494788  2202 convert_imageset.cpp:147] Processed 406000 files.
+Premature end of JPEG file
+I0815 12:16:15.745548  2202 convert_imageset.cpp:147] Processed 407000 files.
+I0815 12:16:23.767902  2202 convert_imageset.cpp:147] Processed 408000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:16:31.761912  2202 convert_imageset.cpp:147] Processed 409000 files.
+I0815 12:16:39.687362  2202 convert_imageset.cpp:147] Processed 410000 files.
+Premature end of JPEG file
+I0815 12:16:47.904569  2202 convert_imageset.cpp:147] Processed 411000 files.
+I0815 12:16:55.855439  2202 convert_imageset.cpp:147] Processed 412000 files.
+I0815 12:17:03.767854  2202 convert_imageset.cpp:147] Processed 413000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:17:11.220290  2202 convert_imageset.cpp:147] Processed 414000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:17:19.699168  2202 convert_imageset.cpp:147] Processed 415000 files.
+I0815 12:17:27.625140  2202 convert_imageset.cpp:147] Processed 416000 files.
+I0815 12:17:35.688452  2202 convert_imageset.cpp:147] Processed 417000 files.
+Premature end of JPEG file
+I0815 12:17:43.046478  2202 convert_imageset.cpp:147] Processed 418000 files.
+I0815 12:17:52.305671  2202 convert_imageset.cpp:147] Processed 419000 files.
+I0815 12:18:00.116400  2202 convert_imageset.cpp:147] Processed 420000 files.
+I0815 12:18:07.670541  2202 convert_imageset.cpp:147] Processed 421000 files.
+I0815 12:18:16.032271  2202 convert_imageset.cpp:147] Processed 422000 files.
+I0815 12:18:24.673087  2202 convert_imageset.cpp:147] Processed 423000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:18:33.942582  2202 convert_imageset.cpp:147] Processed 424000 files.
+I0815 12:18:43.483011  2202 convert_imageset.cpp:147] Processed 425000 files.
+I0815 12:18:52.029305  2202 convert_imageset.cpp:147] Processed 426000 files.
+I0815 12:19:00.331795  2202 convert_imageset.cpp:147] Processed 427000 files.
+I0815 12:19:10.302677  2202 convert_imageset.cpp:147] Processed 428000 files.
+Premature end of JPEG file
+I0815 12:19:16.276226  2202 convert_imageset.cpp:147] Processed 429000 files.
+Premature end of JPEG file
+I0815 12:19:25.873291  2202 convert_imageset.cpp:147] Processed 430000 files.
+Premature end of JPEG file
+I0815 12:19:34.261696  2202 convert_imageset.cpp:147] Processed 431000 files.
+Premature end of JPEG file
+I0815 12:19:42.545955  2202 convert_imageset.cpp:147] Processed 432000 files.
+I0815 12:19:51.482676  2202 convert_imageset.cpp:147] Processed 433000 files.
+Premature end of JPEG file
+I0815 12:20:00.717115  2202 convert_imageset.cpp:147] Processed 434000 files.
+I0815 12:20:08.921748  2202 convert_imageset.cpp:147] Processed 435000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:20:18.505818  2202 convert_imageset.cpp:147] Processed 436000 files.
+I0815 12:20:26.492857  2202 convert_imageset.cpp:147] Processed 437000 files.
+Premature end of JPEG file
+I0815 12:20:34.325379  2202 convert_imageset.cpp:147] Processed 438000 files.
+I0815 12:20:40.660452  2202 convert_imageset.cpp:147] Processed 439000 files.
+I0815 12:20:48.923766  2202 convert_imageset.cpp:147] Processed 440000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:20:56.666349  2202 convert_imageset.cpp:147] Processed 441000 files.
+I0815 12:21:04.695813  2202 convert_imageset.cpp:147] Processed 442000 files.
+I0815 12:21:12.340883  2202 convert_imageset.cpp:147] Processed 443000 files.
+I0815 12:21:18.882874  2202 convert_imageset.cpp:147] Processed 444000 files.
+I0815 12:21:27.045490  2202 convert_imageset.cpp:147] Processed 445000 files.
+I0815 12:21:33.573479  2202 convert_imageset.cpp:147] Processed 446000 files.
+I0815 12:21:41.752225  2202 convert_imageset.cpp:147] Processed 447000 files.
+Premature end of JPEG file
+I0815 12:21:50.545323  2202 convert_imageset.cpp:147] Processed 448000 files.
+I0815 12:21:58.495481  2202 convert_imageset.cpp:147] Processed 449000 files.
+I0815 12:22:05.580881  2202 convert_imageset.cpp:147] Processed 450000 files.
+Premature end of JPEG file
+I0815 12:22:13.352241  2202 convert_imageset.cpp:147] Processed 451000 files.
+Premature end of JPEG file
+I0815 12:22:21.412005  2202 convert_imageset.cpp:147] Processed 452000 files.
+I0815 12:22:29.406677  2202 convert_imageset.cpp:147] Processed 453000 files.
+I0815 12:22:36.703521  2202 convert_imageset.cpp:147] Processed 454000 files.
+I0815 12:22:44.690733  2202 convert_imageset.cpp:147] Processed 455000 files.
+Premature end of JPEG file
+I0815 12:22:52.103930  2202 convert_imageset.cpp:147] Processed 456000 files.
+Premature end of JPEG file
+I0815 12:23:00.021800  2202 convert_imageset.cpp:147] Processed 457000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:23:07.852774  2202 convert_imageset.cpp:147] Processed 458000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:23:15.898730  2202 convert_imageset.cpp:147] Processed 459000 files.
+I0815 12:23:24.167613  2202 convert_imageset.cpp:147] Processed 460000 files.
+I0815 12:23:32.180585  2202 convert_imageset.cpp:147] Processed 461000 files.
+Premature end of JPEG file
+I0815 12:23:40.088654  2202 convert_imageset.cpp:147] Processed 462000 files.
+I0815 12:23:48.461504  2202 convert_imageset.cpp:147] Processed 463000 files.
+I0815 12:23:56.975632  2202 convert_imageset.cpp:147] Processed 464000 files.
+Premature end of JPEG file
+I0815 12:24:15.555129  2202 convert_imageset.cpp:147] Processed 465000 files.
+I0815 12:24:34.787235  2202 convert_imageset.cpp:147] Processed 466000 files.
+Premature end of JPEG file
+I0815 12:24:52.186226  2202 convert_imageset.cpp:147] Processed 467000 files.
+I0815 12:25:12.474306  2202 convert_imageset.cpp:147] Processed 468000 files.
+Premature end of JPEG file
+I0815 12:25:31.858377  2202 convert_imageset.cpp:147] Processed 469000 files.
+I0815 12:25:51.780947  2202 convert_imageset.cpp:147] Processed 470000 files.
+I0815 12:26:13.603400  2202 convert_imageset.cpp:147] Processed 471000 files.
+I0815 12:26:32.716944  2202 convert_imageset.cpp:147] Processed 472000 files.
+I0815 12:26:51.847463  2202 convert_imageset.cpp:147] Processed 473000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:27:11.732168  2202 convert_imageset.cpp:147] Processed 474000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:27:31.171274  2202 convert_imageset.cpp:147] Processed 475000 files.
+Premature end of JPEG file
+I0815 12:27:48.086047  2202 convert_imageset.cpp:147] Processed 476000 files.
+I0815 12:28:08.329877  2202 convert_imageset.cpp:147] Processed 477000 files.
+I0815 12:28:28.686872  2202 convert_imageset.cpp:147] Processed 478000 files.
+I0815 12:28:46.992327  2202 convert_imageset.cpp:147] Processed 479000 files.
+Premature end of JPEG file
+I0815 12:29:07.305610  2202 convert_imageset.cpp:147] Processed 480000 files.
+I0815 12:29:27.276096  2202 convert_imageset.cpp:147] Processed 481000 files.
+Premature end of JPEG file
+I0815 12:29:47.093601  2202 convert_imageset.cpp:147] Processed 482000 files.
+Premature end of JPEG file
+Premature end of JPEG file
+I0815 12:30:08.605414  2202 convert_imageset.cpp:147] Processed 483000 files.
+Premature end of JPEG file
+I0815 12:30:27.595373  2202 convert_imageset.cpp:147] Processed 484000 files.
+Premature end of JPEG file
+I0815 12:30:46.664903  2202 convert_imageset.cpp:147] Processed 485000 files.
+I0815 12:31:06.989964  2202 convert_imageset.cpp:147] Processed 486000 files.
+I0815 12:31:27.665825  2202 convert_imageset.cpp:147] Processed 487000 files.
+Premature end of JPEG file
+I0815 12:31:48.060714  2202 convert_imageset.cpp:147] Processed 488000 files.
+I0815 12:32:08.880337  2202 convert_imageset.cpp:147] Processed 489000 files.
+Premature end of JPEG file
+I0815 12:32:28.252359  2202 convert_imageset.cpp:147] Processed 490000 files.
+Premature end of JPEG file
+I0815 12:32:47.334614  2202 convert_imageset.cpp:147] Processed 491000 files.
+I0815 12:33:09.332475  2202 convert_imageset.cpp:147] Processed 492000 files.
+Premature end of JPEG file
+I0815 12:33:28.866252  2202 convert_imageset.cpp:147] Processed 493000 files.
+I0815 12:33:48.952411  2202 convert_imageset.cpp:147] Processed 494000 files.
+I0815 12:34:08.321681  2202 convert_imageset.cpp:147] Processed 495000 files.
+I0815 12:34:29.178540  2202 convert_imageset.cpp:147] Processed 496000 files.
+I0815 12:34:53.188774  2202 convert_imageset.cpp:147] Processed 497000 files.
+I0815 12:35:12.999675  2202 convert_imageset.cpp:147] Processed 498000 files.
+I0815 12:35:33.604413  2202 convert_imageset.cpp:147] Processed 499000 files.
+Premature end of JPEG file
+I0815 12:35:53.739514  2202 convert_imageset.cpp:153] Processed 499989 files.
+Done.

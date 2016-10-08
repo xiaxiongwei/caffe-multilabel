@@ -1,0 +1,20 @@
+net: "./examples/coco_caption/tagging_gnet_multilabel.prototxt"
+
+
+test_iter: 100
+test_interval: 500
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.8
+stepsize: 10000
+display: 20
+max_iter: 500000
+momentum: 0.9
+weight_decay: 0.0000
+snapshot: 20000
+snapshot_prefix: "/mnt/lvmhdd/xiaxiongwei/models/coco_img_captioning/tagging_gnet_multilabel_235_adam"
+solver_mode: GPU
+random_seed: 1701
+average_loss: 100
+type: "Nesterov"
+clip_gradients: 100

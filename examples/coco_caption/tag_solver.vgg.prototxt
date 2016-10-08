@@ -1,0 +1,20 @@
+net: "./examples/coco_caption/tagging_vgg_multilabel.prototxt"
+
+
+test_iter: 50
+test_interval: 100
+base_lr: 0.002
+lr_policy: "step"
+gamma: 0.6
+stepsize: 10000
+display: 25
+max_iter: 500000
+momentum: 0.9
+weight_decay: 0.0000
+snapshot: 10000
+snapshot_prefix: "/mnt/lvmhdd/xiaxiongwei/models/coco_img_captioning/tagging_vgg16_multilabel_235_newInput"
+solver_mode: GPU
+random_seed: 1701
+average_loss: 100
+type: "Nesterov"
+clip_gradients: 150
